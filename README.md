@@ -194,5 +194,5 @@ Through this project, I practiced:
 🌐 Project Links
 
 -  Live Demo: https://travel-planer-kamut4bms85v3obf7e5fsj.streamlit.app/
-- 💻 GitHub Repository: https://github.com/hm4407674-prog/Travel-planer-
+- 💻 GitHub Repository: https://github.com/hm4407674-prog/Travel-planer
 - LinkedIn: https://www.linkedin.com/in/hafiz-mohammed-b6ba36433
